@@ -1,7 +1,3 @@
-wtf are pronouns and why do I need them?
-
-imagine seeing errors in your code
-
 <h1 align="center">Stuff I use<h1>
   
 <div align="center">
