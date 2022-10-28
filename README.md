@@ -17,3 +17,7 @@
 <a href='https://haxe.org/' target="_blank"><img alt='Haxe' src='https://img.shields.io/badge/Haxe-100000?style=for-the-badge&logo=Haxe&logoColor=FFFFFF&labelColor=EA8220&color=EA8220'/></a>
 
 </div>
+
+# useless stuff
+wtf are pronouns and why do I need them
+imagine seeing errors in your code
